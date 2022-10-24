@@ -1,0 +1,11 @@
+[rpi_jukebox]
+jukebox_file = /home/pi/rpi_jukebox/music_map.csv
+debounce_time = 10
+# syslog server listening on UDP port
+# log_host = 10.10.10.100
+# log_port = 51404
+# office
+#sonos_ip = 10.10.10.10
+# playroom
+sonos_ip = 10.10.10.11
+sonos_vol = 45

@@ -1,0 +1,8 @@
+rpi_jukebox.config
+music_map.csv
+pn532/__pycache__/*
+util/__pycache__/*
+__pycache__/*
+.vscode/*
+rpi_jukebox.config.testing
+push_updates.sh
