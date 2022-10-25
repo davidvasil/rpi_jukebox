@@ -83,3 +83,6 @@ https://www.waveshare.com/wiki/PN532_NFC_HAT
 I wanted to be able to play a radio station, Youtube Music, or Spotify Playlist, but Sonos/SoCo does not really handle this well when trying to use SoCo.add_uri_to_queue(uri), so instead I worked around it by grabbing the SoCo favorite reference from the favorites list and adding that to the queue with SoCo.add_to_queue(reference)
 
 ## Logging
+I wanted to be able to log NFC card requests via syslog so that I can track what songs are played the most and have an easy way to get the UID of unregistered cards.  Any unregistered card will show up in the log, you can then map that UID to a song name and Sonos URL.  
+  
+Use the log_host and log_port options in the config file to send syslog to a remote host.
