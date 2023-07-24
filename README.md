@@ -33,7 +33,7 @@ For NFC cards, I picked up a stack of blank NTAG215 cards from Amazon
 ### Card Labels
 Used some inkjet printable 2"x4" shipping labels so that I could print what song is on the card  
 
-![Avery Shipping Labels](https://www.amazon.com/gp/product/B002HJ9OJK/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+https://www.amazon.com/gp/product/B002HJ9OJK/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 
 ## Config file options
 `rpi_jukebox.py` uses configparser to read the config specified at `CONFIG_PATH` - default is `/home/pi/rpi_jukebox/rpi_jukebox.config`.  The example config file looks like this:
