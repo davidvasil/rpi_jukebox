@@ -28,7 +28,9 @@ Got the PN532 NFC hat from Waveshare https://www.waveshare.com/pn532-nfc-hat.htm
 Since the Pi 1B+ does not have Wifi, I used a TPLink Archer T2U Nano Wifi dongle based on the RTL8812AU chipset and compiled the driver from https://github.com/aircrack-ng/rtl8812au.git
 
 ### NFC Cards
-For NFC cards, I picked up a stack of blank NTAG215 cards from Amazon
+For NFC cards, I picked up a stack of blank NTAG215 cards from Amazon  
+
+https://www.amazon.com/Rewritable-Business-Compatible-NFC-Enabled-Devices%EF%BC%8810pcs%EF%BC%89/dp/B0BKSYWG3N/ref=sr_1_6?keywords=NTAG215&qid=1690313515&sr=8-6&th=1
 
 ### Card Labels
 Used some inkjet printable 2"x4" shipping labels so that I could print what song is on the card  
